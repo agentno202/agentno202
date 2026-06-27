@@ -3,8 +3,8 @@
 <img src="assets/profile.png" width="180" alt="Mahesh Sercat Ramakumar"/>
 
 # Mahesh Sercat Ramakumar
-### Senior Data & AI Engineer • RAG & Agentic AI
-#### Databricks • Azure • GenAI • Data Governance
+### Senior Data & AI Engineer
+Data Engineering • Data Science • Analytics • Generative AI & RAG • Data Governance & MDM
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-s-r/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srmahesh007@outlook.com)
@@ -15,33 +15,35 @@
 
 <br/>
 
-## 👋 About Me
+## About
 
-I'm a Data & AI Engineer with close to **10 years of experience** architecting enterprise-scale, cloud-native data platforms and AI-driven applications for Fortune 500 clients. My work spans the full lifecycle — from **data engineering and lakehouse architecture** to **applied data science, GenAI, and agentic AI systems** — with deep hands-on expertise in **Databricks, Azure, Python, and SQL** on a daily basis.
+I'm a Senior Data & AI Engineer with close to 10 years of experience owning the full data value chain — from raw ingestion and lakehouse architecture, through governed analytics and master data management, to applied data science and production-grade GenAI systems.
 
-I care about building systems that are not just technically sound, but governed, observable, and genuinely useful to the business problems they're solving.
+I don't stay in one lane. I've architected Databricks lakehouses, built enterprise RAG and agentic AI pipelines, stood up data governance frameworks in Microsoft Purview, and shipped ML models that moved real business metrics. That breadth is the point: I'm the engineer who can take a problem from a raw data source to a governed, production AI system without handing it off in between.
 
-**🏆 A few highlights:**
-- 🏗️ ~10 years architecting enterprise data & AI platforms — Databricks Lakehouse, RAG pipelines, data governance, and MDM
-- 🎓 Currently pursuing **two graduate degrees in parallel** — both fully sponsored by my employer
-- 🏅 Working toward **Databricks Champion** status
-- ✍️ Publishing technical articles on Medium — Unity Catalog, Delta Sharing, Medallion Architecture, Photon Engine
+**Highlights**
+
+- ~10 years architecting enterprise data & AI platforms across data engineering, data science, analytics, governance, and MDM for Fortune 500 clients
+- Two completed Master's degrees — M.S. in Data Science (Drexel University, GPA 3.9) and Executive M.S. in IT Project Management (New England College, GPA 3.95) — one fully sponsored by my employer
+- Working toward Databricks Champion status
+- Publishing technical articles on Medium covering Unity Catalog, Delta Sharing, Medallion Architecture, and Photon Engine
 
 <br/>
 
-## 🧠 What I Do
+## Core Expertise
 
-| Area | Focus |
+| Area | What I Bring |
 |---|---|
-| 🏗️ **Data Engineering & Lakehouse** | Databricks, Medallion Architecture, Delta Lake, Unity Catalog, PySpark ETL/ELT |
-| 🤖 **GenAI & Agentic AI** | RAG pipelines, LLM integration, Azure OpenAI, vector search, prompt & eval design |
-| 📊 **Data Science & ML** | Predictive modeling, NLP, deep learning, MLflow, model monitoring |
-| 🛡️ **Data Governance & MDM** | Microsoft Purview, Profisee, data lineage, classification, data quality rules |
-| ⚙️ **Platform Engineering** | CI/CD, deployment automation, observability, system evaluation |
+| **Data Engineering & Lakehouse Architecture** | Designing Databricks Medallion lakehouses, Delta Lake, Unity Catalog, and PySpark ETL/ELT pipelines at enterprise scale |
+| **Data Science & Machine Learning** | Building and deploying predictive models — fraud detection, churn, forecasting — plus NLP and deep learning with measurable business impact |
+| **Generative AI & Agentic Systems** | Architecting end-to-end RAG pipelines and agentic AI workflows using Azure OpenAI, vector search, and LLM orchestration |
+| **Analytics & Business Intelligence** | Turning raw data into decision-ready reporting and dashboards across Power BI and enterprise analytics platforms |
+| **Data Governance & MDM** | Implementing enterprise governance, lineage, and master data management via Microsoft Purview and Profisee |
+| **Platform Engineering & DevOps** | CI/CD, deployment automation, and system monitoring/evaluation to keep production data and AI systems reliable |
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Data Platforms**
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
@@ -68,38 +70,39 @@ I care about building systems that are not just technically sound, but governed,
 
 <br/>
 
-## 💼 Professional Journey
+## Professional Journey
 
-```
-2022 — Present    Senior Consultant I, Data & AI Engineering — IBM
-                   ▸ Databricks Medallion lakehouse architecture for enterprise EPM platforms
-                   ▸ End-to-end RAG/agentic AI pipeline — Azure OpenAI + Azure AI Search
-                   ▸ Enterprise data governance & lineage via Microsoft Purview
-                   ▸ MDM architecture & ETL pipelines via Profisee
+**IBM** — Philadelphia, PA &nbsp;|&nbsp; Oct 2022 – Present
+*Senior Consultant I, Data & AI Engineering*
+- Databricks Medallion lakehouse architecture for enterprise EPM platforms
+- End-to-end RAG/agentic AI pipeline — Azure OpenAI + Azure AI Search
+- Enterprise data governance & lineage via Microsoft Purview
+- MDM architecture & ETL pipelines via Profisee
 
-2019 — 2022        Sr. Professional Product Developer — DXC Technology
-                   ▸ Spark pipelines processing 5TB+ of daily transactional data
-                   ▸ ML models for churn & fraud prediction; DataOps/MLOps practices
-                   ▸ NLP-based smart bot driving 11% cross-sell improvement
+**DXC Technology** — Philadelphia, PA / Bengaluru, India &nbsp;|&nbsp; Nov 2016 – Sept 2022
 
-2016 — 2019         ML Engineer / Data Analyst — DXC Technology
-                   ▸ NLP & deep learning models for text classification
-                   ▸ Personalized recommendation system (Python + Azure ML)
-                   ▸ 72 Power BI reports & analytical models across enterprise data
-```
+*Sr. Professional Product Developer (Sept 2019 – Sept 2022)*
+- Spark pipelines processing 5TB+ of daily transactional data
+- ML models for churn & fraud prediction; DataOps/MLOps practices
+- NLP-based smart bot driving 11% cross-sell improvement
 
-<br/>
-
-## 🎓 Education
-
-| Degree | Institution |
-|---|---|
-| M.S. in Data Science *(in progress, employer-sponsored)* | Drexel University, Philadelphia, PA |
-| Executive M.S. in IT Project Management *(in progress, employer-sponsored)* | New England College, Henniker, NH |
+*ML Engineer / Data Analyst (Nov 2016 – Aug 2019)*
+- NLP & deep learning models for text classification
+- Personalized recommendation system (Python + Azure ML)
+- 72 Power BI reports & analytical models across enterprise data
 
 <br/>
 
-## 📜 Certifications
+## Education
+
+| Degree | Institution | Details |
+|---|---|---|
+| M.S. in Data Science | Drexel University, Philadelphia, PA | 2019 – 2021 • GPA 3.9 |
+| Executive M.S. in IT Project Management | New England College, Henniker, NH | 2024 – 2026 • GPA 3.95 |
+
+<br/>
+
+## Certifications
 
 <table>
 <tr>
@@ -115,8 +118,10 @@ I care about building systems that are not just technically sound, but governed,
 <td valign="top">
 
 **Microsoft**
+- Azure Solutions Architect (AZ-303)
 - Azure Data Engineer Associate
 - Azure AI Engineer Associate
+- Azure Data Scientist
 - Fabric Analytics Engineer
 - Power BI Data Analyst
 
@@ -140,9 +145,9 @@ I care about building systems that are not just technically sound, but governed,
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-> *Replace these placeholder links with your actual repos once they're pushed.*
+> Replace these placeholder links with your actual repos once they're pushed.
 
 | Project | Description | Stack |
 |---|---|---|
@@ -153,7 +158,7 @@ I care about building systems that are not just technically sound, but governed,
 
 <br/>
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -164,13 +169,13 @@ I care about building systems that are not just technically sound, but governed,
 
 <br/>
 
-## 🌍 Beyond Work
+## Beyond Work
 
-🏋️ Gym &nbsp;•&nbsp; 🥾 Trekking &nbsp;•&nbsp; 🏊 Swimming &nbsp;•&nbsp; ✈️ Travelling
+Gym • Trekking • Swimming • Travelling
 
 <br/>
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 

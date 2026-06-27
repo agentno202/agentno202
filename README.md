@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.svg" width="100%" alt="Mahesh Sercat Ramakumar - Data, AI & Agentic Engineering"/>
+
 <img src="assets/profile.png" width="180" alt="Mahesh Sercat Ramakumar"/>
 
 # Mahesh Sercat Ramakumar

@@ -181,7 +181,7 @@ Gym • Trekking • Swimming • Travelling
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-s-r/)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srmahesh007@outlook.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR_MEDIUM_USERNAME)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@srmahesh007)
 
 *Always happy to talk ETL, MDM, data science problems, RAG architecture, agentic AI, or data governance.*
 

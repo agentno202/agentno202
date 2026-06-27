@@ -17,14 +17,14 @@ Data Engineering • Data Science • Analytics • Generative AI & RAG • Data
 
 ## About
 
-I'm a Senior Data & AI Engineer with close to 10 years of experience owning the full data value chain — from raw ingestion and lakehouse architecture, through governed analytics and master data management, to applied data science and production-grade GenAI systems.
+I'm a Senior Data & AI Engineer with close to 10 years of experience owning the full data value chain: from raw ingestion and lakehouse architecture, through governed analytics and master data management, to applied data science and production-grade GenAI systems.
 
 I don't stay in one lane. I've architected Databricks lakehouses, built enterprise RAG and agentic AI pipelines, stood up data governance frameworks in Microsoft Purview, and shipped ML models that moved real business metrics. That breadth is the point: I'm the engineer who can take a problem from a raw data source to a governed, production AI system without handing it off in between.
 
 **Highlights**
 
 - ~10 years architecting enterprise data & AI platforms across data engineering, data science, analytics, governance, and MDM for Fortune 500 clients
-- Two completed Master's degrees — M.S. in Data Science (Drexel University, GPA 3.9) and Executive M.S. in IT Project Management (New England College, GPA 3.95) — one fully sponsored by my employer
+- Two completed Master's degrees: M.S. in Data Science (Drexel University, GPA 3.9) and Executive M.S. in IT Project Management (New England College, GPA 3.95), one fully sponsored by my employer
 - Working toward Databricks Champion status
 - Publishing technical articles on Medium covering Unity Catalog, Delta Sharing, Medallion Architecture, and Photon Engine
 
@@ -32,10 +32,10 @@ I don't stay in one lane. I've architected Databricks lakehouses, built enterpri
 
 ## Core Expertise
 
-| Area | What I Bring |
+| ![AREA](https://img.shields.io/badge/AREA-1F6FEB?style=for-the-badge) | ![WHAT I BRING](https://img.shields.io/badge/WHAT%20I%20BRING-2EA043?style=for-the-badge) |
 |---|---|
 | **Data Engineering & Lakehouse Architecture** | Designing Databricks Medallion lakehouses, Delta Lake, Unity Catalog, and PySpark ETL/ELT pipelines at enterprise scale |
-| **Data Science & Machine Learning** | Building and deploying predictive models — fraud detection, churn, forecasting — plus NLP and deep learning with measurable business impact |
+| **Data Science & Machine Learning** | Building and deploying predictive models (fraud detection, churn, forecasting) plus NLP and deep learning with measurable business impact |
 | **Generative AI & Agentic Systems** | Architecting end-to-end RAG pipelines and agentic AI workflows using Azure OpenAI, vector search, and LLM orchestration |
 | **Analytics & Business Intelligence** | Turning raw data into decision-ready reporting and dashboards across Power BI and enterprise analytics platforms |
 | **Data Governance & MDM** | Implementing enterprise governance, lineage, and master data management via Microsoft Purview and Profisee |
@@ -72,14 +72,14 @@ I don't stay in one lane. I've architected Databricks lakehouses, built enterpri
 
 ## Professional Journey
 
-**IBM** — Philadelphia, PA &nbsp;|&nbsp; Oct 2022 – Present
+**IBM**, Philadelphia, PA &nbsp;|&nbsp; Oct 2022 – Present
 *Senior Consultant I, Data & AI Engineering*
 - Databricks Medallion lakehouse architecture for enterprise EPM platforms
-- End-to-end RAG/agentic AI pipeline — Azure OpenAI + Azure AI Search
+- End-to-end RAG/agentic AI pipeline using Azure OpenAI + Azure AI Search
 - Enterprise data governance & lineage via Microsoft Purview
 - MDM architecture & ETL pipelines via Profisee
 
-**DXC Technology** — Philadelphia, PA / Bengaluru, India &nbsp;|&nbsp; Nov 2016 – Sept 2022
+**DXC Technology**, Philadelphia, PA &nbsp;|&nbsp; Nov 2016 – Sept 2022
 
 *Sr. Professional Product Developer (Sept 2019 – Sept 2022)*
 - Spark pipelines processing 5TB+ of daily transactional data
@@ -95,7 +95,7 @@ I don't stay in one lane. I've architected Databricks lakehouses, built enterpri
 
 ## Education
 
-| Degree | Institution | Details |
+| ![DEGREE](https://img.shields.io/badge/DEGREE-1F6FEB?style=for-the-badge) | ![INSTITUTION](https://img.shields.io/badge/INSTITUTION-2EA043?style=for-the-badge) | ![DETAILS](https://img.shields.io/badge/DETAILS-D29922?style=for-the-badge) |
 |---|---|---|
 | M.S. in Data Science | Drexel University, Philadelphia, PA | 2019 – 2021 • GPA 3.9 |
 | Executive M.S. in IT Project Management | New England College, Henniker, NH | 2024 – 2026 • GPA 3.95 |
@@ -108,7 +108,7 @@ I don't stay in one lane. I've architected Databricks lakehouses, built enterpri
 <tr>
 <td valign="top">
 
-**Databricks**
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 - Certified Generative AI Associate
 - Certified Data Engineer Professional
 - Azure Databricks Platform Architect
@@ -117,7 +117,7 @@ I don't stay in one lane. I've architected Databricks lakehouses, built enterpri
 </td>
 <td valign="top">
 
-**Microsoft**
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 - Azure Solutions Architect (AZ-303)
 - Azure Data Engineer Associate
 - Azure AI Engineer Associate
@@ -128,14 +128,14 @@ I don't stay in one lane. I've architected Databricks lakehouses, built enterpri
 </td>
 <td valign="top">
 
-**IBM**
+![IBM](https://img.shields.io/badge/IBM-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
 - Watsonx AI Practitioner Advanced
 - Generative & Agentic AI Data Engineer
 
 </td>
 <td valign="top">
 
-**Other**
+![Other](https://img.shields.io/badge/Other-6E7781?style=for-the-badge)
 - Profisee Master Data Architect
 - Google Project Management
 
@@ -149,7 +149,7 @@ I don't stay in one lane. I've architected Databricks lakehouses, built enterpri
 
 > Replace these placeholder links with your actual repos once they're pushed.
 
-| Project | Description | Stack |
+| ![PROJECT](https://img.shields.io/badge/PROJECT-1F6FEB?style=for-the-badge) | ![DESCRIPTION](https://img.shields.io/badge/DESCRIPTION-2EA043?style=for-the-badge) | ![STACK](https://img.shields.io/badge/STACK-D29922?style=for-the-badge) |
 |---|---|---|
 | [**RAG & Agentic AI Pipeline**](https://github.com/agentno202/rag-agentic-pipeline) | End-to-end document intelligence & semantic search pipeline | Azure OpenAI, Azure AI Search, Document Intelligence |
 | [**Databricks Medallion Lakehouse**](https://github.com/agentno202/databricks-medallion-lakehouse) | Bronze/Silver/Gold lakehouse with metadata-driven ingestion | Databricks, PySpark, Delta Lake, Unity Catalog |
@@ -183,6 +183,6 @@ Gym • Trekking • Swimming • Travelling
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srmahesh007@outlook.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR_MEDIUM_USERNAME)
 
-*Always happy to talk Databricks, RAG architecture, agentic AI, or data governance.*
+*Always happy to talk ETL, MDM, data science problems, RAG architecture, agentic AI, or data governance.*
 
 </div>

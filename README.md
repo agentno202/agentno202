@@ -6,7 +6,7 @@
 
 # Mahesh Sercat Ramakumar
 ### Senior Data & AI Engineer
-Data Engineering • Data Science • Analytics • Generative AI & RAG • Data Governance & MDM
+AI Engineer • Machine Learning Engineer • Data Scientist • Data Governance & MDM • Data Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-s-r/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srmahesh007@outlook.com)
